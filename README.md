@@ -1,27 +1,5 @@
 # Tour-Reservation-and-Scheduling-System
 
-< 목 차 >
-
-1. Algorithm Final Project
-가. Role of each member
-1) 역할	3
-나. Introduction 
-1) 전반적인 코드 소개	4
-2) 전반적인 알고리즘 소개	4~5
-다. User interface and modules description
-1) Input, Output 화면	5~7
-2) 코드 모듈화	7~8
-라. Extensive execution examples and analysis
-1) 확장한 기능	9
-2) 확장 가능성	9
-마. Discussion and conclusion
-1) 논의 및 결론	10
-바. Source code
-1) 소스 코드	10
-2) 헤더 파일	10
-
-
-
 가) Role of each member
 
 	- UI 및 전체적인 알고리즘 구상
@@ -31,7 +9,7 @@
 	- mainUI.c 구현
 	- UserInfo.c 구현
 	- UI.c 구현
-  - RBTree.c 코드 구현
+	- RBTree.c 코드 구현
 	- Graph_List.c 코드 구현
 	- Input 및 Output 디자인 및 콘솔 입출력 구현
 	- 최종 보고서 작성
